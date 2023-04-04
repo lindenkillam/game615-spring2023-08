@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 7141564093719064184}
   m_Layer: 0
   m_Name: FinalKeyhole
-  m_TagString: Untagged
+  m_TagString: finalKeyhole
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

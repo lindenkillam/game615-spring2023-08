@@ -6,6 +6,7 @@ TagManager:
   tags:
   - medkit
   - finalKeyhole
+  - fancyGoldKey
   layers:
   - Default
   - TransparentFX
