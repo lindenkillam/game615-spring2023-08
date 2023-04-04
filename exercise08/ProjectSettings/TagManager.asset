@@ -10,6 +10,7 @@ TagManager:
   - PizzaSteve
   - fancyBronzeKey
   - fancySilverKey
+  - ironKeyhole
   layers:
   - Default
   - TransparentFX
