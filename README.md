@@ -5,3 +5,4 @@ Hongcheng Zhang<br>
 
 Keyhole by Poly by Google [CC-BY] via Poly Pizza<br>
 Key by Quaternius<br>
+Pizza Steve by Stephen Myer [CC-BY] via Poly Pizza<br>
