@@ -8,7 +8,7 @@ TagManager:
   - finalKeyhole
   - fancyGoldKey
   - PizzaSteve
-  - Enemy
+  - fancyBronzeKey
   layers:
   - Default
   - TransparentFX
