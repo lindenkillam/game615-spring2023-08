@@ -9,6 +9,7 @@ TagManager:
   - fancyGoldKey
   - PizzaSteve
   - fancyBronzeKey
+  - fancySilverKey
   layers:
   - Default
   - TransparentFX
