@@ -11,15 +11,6 @@ public class Raycast : MonoBehaviour
     public GameObject KeyholeInfo;
     public GameObject goldKeyholeInfo;
     public GameObject silverKeyholeInfo;
-    void Start()
-    {
-        
-    }
-
-    void Update()
-    {
-        
-    }
 
     private void OnTriggerStay(Collider other)
     {

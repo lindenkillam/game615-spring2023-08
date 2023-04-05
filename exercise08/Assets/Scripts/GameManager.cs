@@ -37,9 +37,11 @@ public class GameManager : MonoBehaviour
     }
 
     public void GetSilverKey()
-    {        
+    {
+        onObtainKey.SetActive(true);
         keyNumber += 1;
         keyNoText.text = keyNumber.ToString();
+        anim1.SetTrigger("Set");
         onObtainKey.SetActive(true);
         silverKey.SetActive(false);
         SilverKeyInfo.SetActive(false);

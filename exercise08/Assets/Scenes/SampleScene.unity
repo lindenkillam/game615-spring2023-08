@@ -1234,8 +1234,6 @@ MonoBehaviour:
   silverKeyholeInfo: {fileID: 1772220849}
   anim1: {fileID: 2096482197}
   anim2: {fileID: 1922673009}
-  insert1: 0
-  insert2: 0
   gameOverText: {fileID: 1237001251}
 --- !u!4 &610403488
 Transform:
@@ -1575,7 +1573,7 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 1.25
+  m_Intensity: 1.5
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
