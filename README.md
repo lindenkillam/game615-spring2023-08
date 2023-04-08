@@ -7,7 +7,7 @@ Game rule: collect keys to open the keyholes.
 
 [**Playable link to game**](https://lindenkillam.github.io/game615-spring2023-08/exercise08/play/) 
 
-[**Source link**](https://github.com/lindenkillam/game615-spring2023-08/exercise08/tree/main/) 
+[**Source link**](https://github.com/lindenkillam/game615-spring2023-08/tree/main/) 
 
 **Asset Attribution:**
 Keyhole by Poly by Google [CC-BY] via Poly Pizza (different versions)<br>
