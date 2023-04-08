@@ -1,9 +1,12 @@
-# game615-spring2023-08
+**Exercise 08:** _"The room"_
  
-Linden Killam<br>
-Hongcheng Zhang<br>
+**Group team:** Linden Killam, Hongcheng Zhang
 
-Game rule: collect keys to open the keyholes.
+**How to play:** 
+WASD to move, left-mouse click to click the button. 
+
+**Game goal:** 
+Collect keys to open the keyholes.
 
 [**Playable link to game**](https://lindenkillam.github.io/game615-spring2023-08/exercise08/play/) 
 
